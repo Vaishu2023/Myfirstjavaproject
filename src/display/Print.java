@@ -8,6 +8,7 @@ public class Print {
 				System.out.println("I love music");
 				System.out.println("20x30= ");
 				System.out.println(20*30);
+				System.out.println("I am out for tomorrow");
 
 	}
 
