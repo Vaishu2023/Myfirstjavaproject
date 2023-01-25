@@ -10,6 +10,8 @@ public class Print {
 				System.out.println(20*30);
 				System.out.println("I am out for tomorrow");
 				System.out.println("Buy one get 50% off on second iphone 13");
+				System.out.println("50% off offer end by todat end of the day");
+				
 
 	}
 
