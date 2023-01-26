@@ -12,6 +12,7 @@ public class Print {
 				System.out.println("Buy one get 50% off on second iphone 13");
 				System.out.println("50% off offer end by todat end of the day");
 				System.out.println("testing pollSCM");
+				System.out.println("test again");
 				
 
 	}
